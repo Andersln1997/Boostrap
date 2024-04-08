@@ -1,0 +1,21 @@
+.footer,
+.navbar {
+	background: #e8ecef;
+}
+
+.bi {
+	font-size: 1.8em;
+}
+.btn {
+	background: #7187df;
+	border: none;
+	color: #fff;
+}
+
+.btn:hover {
+	background: #20b5c6;
+}
+
+.card .btn:active {
+	background-color: #7187df;
+}
